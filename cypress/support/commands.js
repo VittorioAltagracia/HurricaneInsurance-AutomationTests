@@ -1,4 +1,4 @@
-// custom cypress commands and helper functions
+// custom cypress commands
 
 import { baseUrl } from "../utils/baseUrl";
 
